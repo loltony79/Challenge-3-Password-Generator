@@ -55,4 +55,4 @@ SOFTWARE.
 - Lastly generates the password that meets the user's criterias
 
 ## Share Remote Repository URL
-https://github.com/loltony79/Challenge_2_Portfolio.git
+https://github.com/loltony79/Challenge-3-Password-Generator
